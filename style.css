@@ -1,4 +1,5 @@
-body{ background-color: rgb(red, green, blue);
-    text-align: center }
-    img{ 
-        border-radius:70cqw; }
+body{ background-color: wheat;
+    text-align: center;}
+    img{ width: 500px; 
+        height: auto;
+    }
